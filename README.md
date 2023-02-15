@@ -8,3 +8,9 @@ Recording 개념, Login, Data Scraping <br>
 
 # 230213
 Selector, 문자열 함수, 배열, 리스트, 딕셔너리
+
+# 230214
+엑셀, 데이터 테이블
+
+# 230215
+실습 
